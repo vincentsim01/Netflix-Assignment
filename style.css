@@ -1,3 +1,49 @@
 body{
     background-color: red;
 }
+
+header{
+    background-image: url('./image/wallpaper.png');
+    border:1px solid white;
+}
+
+#logoHeader{
+    margin:2%;
+    border:white 1px solid;
+    display:inline-block;
+    width:100px;
+}
+
+.headerLeft{
+    text-align:left;
+
+}
+
+.headerRight{
+    text-align:right;
+
+}
+
+
+#languageDropdownHeader{
+
+}
+
+#unlimitedFilms{
+    color:white;
+    text-align:center;
+    padding-top:15%;
+    border:1px solid white;
+}
+
+#watchAnywhere{
+    color:white;
+    text-align:center;
+    border:1px solid white;
+}
+
+#readyToWatch{
+    color:white;
+    text-align:center;
+    border:1px solid white;
+}
