@@ -47,3 +47,16 @@ header{
     text-align:center;
     border:1px solid white;
 }
+
+.headerSignUp{
+    border:1px solid white;
+    display:inline;
+    text-align:center;
+    color:white;
+}
+
+.lastHeader{
+    border:1px solid blue;
+    text-align:center;
+    margin-bottom:100px;
+}
