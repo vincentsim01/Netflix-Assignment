@@ -4,23 +4,26 @@ body{
 
 header{
     background-image: url('./image/wallpaper.png');
-    border:1px solid white;
+    padding:5%;
+
 }
 
 #logoHeader{
-    margin:2%;
-    border:white 1px solid;
+    margin:3%;
+
     display:inline-block;
     width:100px;
 }
 
 .headerLeft{
     text-align:left;
+    margin:3%;
 
 }
 
 .headerRight{
     text-align:right;
+    margin:3%;
 
 }
 
@@ -33,30 +36,30 @@ header{
     color:white;
     text-align:center;
     padding-top:15%;
-    border:1px solid white;
+
 }
 
 #watchAnywhere{
     color:white;
     text-align:center;
-    border:1px solid white;
+
 }
 
 #readyToWatch{
     color:white;
     text-align:center;
-    border:1px solid white;
+
 }
 
 .headerSignUp{
-    border:1px solid white;
+
     display:inline;
     text-align:center;
     color:white;
 }
 
 .lastHeader{
-    border:1px solid blue;
+ 
     text-align:center;
     margin-bottom:100px;
 }
