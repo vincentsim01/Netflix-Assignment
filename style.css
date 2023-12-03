@@ -67,6 +67,16 @@ header{
     text-align: center;
 }
 
+.accordiolo{
+    background-color: black;
+    color:white;
+}
+
+.accordiolo2{
+    background-color: grey;
+    color:white;
+}
+
 #signupContainer{
     text-align:center;
     background-color: black;
