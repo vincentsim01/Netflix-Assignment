@@ -63,10 +63,18 @@ header{
 
 #FAQContainer{
     padding:20px;
+    background-color: black;;
 }
 
 #QuestionsCall{
     font-size: 30px;
+}
+
+.divider{
+    height:50px;
+    background-color: rgba(161,152,151,1);
+
+
 }
 
 footer{
