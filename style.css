@@ -91,6 +91,26 @@ header{
 
 }
 
+#watchEverywhere{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+#children{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
 #downloadimagecontainer{
     
 }
