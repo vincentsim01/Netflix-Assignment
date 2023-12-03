@@ -70,6 +70,20 @@ header{
     text-align: center;
 }
 
+#enjoyContainer{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+.watchonsmart{
+    padding-top:5%;
+}
+
 .accordiolo{
     background-color: black;
     color:white;
@@ -78,6 +92,10 @@ header{
 .accordiolo2{
     background-color: grey;
     color:white;
+}
+
+#tvgif{
+    width:400px;
 }
 
 #signupContainer{
